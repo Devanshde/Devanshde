@@ -1,8 +1,13 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
 <h1 align="center">Hi 👋, I'm Devansh</h1>
 <h3 align="center">A passionate Application developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/devansh_vashish" target="blank"><img src="https://img.shields.io/twitter/follow/devansh_vashish?logo=twitter&style=for-the-badge" alt="devansh_vashish" /></a> </p>
 
+## 🙋‍♂️ About Me
+ 
+ <!--align="left"> <a href="https://twitter.com/devansh_vashish" target="blank"><img src="https://img.shields.io/twitter/follow/devansh_vashish?logo=twitter&style=for-the-badge" alt="devansh_vashish" /></a> </p>
+-->
 - 🔭 I’m currently working on **Flutter Development**
 
 - 🌱 I’m currently learning **Data Structures And Algorithms**
